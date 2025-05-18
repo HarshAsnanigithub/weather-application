@@ -103,3 +103,9 @@ body{
     
     }
 }
+@media  screen and (max-width:380px){
+    .search input{
+        width: 70%;
+        padding: 10px 20px;
+    }
+}
